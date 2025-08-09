@@ -1,4 +1,4 @@
-# Instagram Username Auto Claimer & Checker 🎯
+# Dark Knight Instagram Username Auto Claimer & Checker 🎯
 
 **Made by Later.lol © 2025**
 
@@ -218,5 +218,6 @@ Copyright © 2025 Later.lol - All rights reserved.
 For issues, suggestions, or improvements, please check the logs first and ensure you're following the setup instructions correctly.
 
 ---
+
 
 **Happy username hunting! 🎯**
