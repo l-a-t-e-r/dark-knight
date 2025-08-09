@@ -1,0 +1,22 @@
+# Instagram Username Checker - Proxy List
+# Add proxies (one per line)
+# Format: ip:port or ip:port:username:password
+# 
+# Examples (remove # to activate):
+# 127.0.0.1:8080
+# 192.168.1.1:3128
+# 203.0.113.1:8080:username:password
+#
+# Free proxy sources:
+# - https://www.freeproxylists.net/
+# - https://www.proxy-list.download/
+# - https://www.proxyscan.io/
+#
+# Tips:
+# - Use multiple proxies to avoid rate limiting
+# - Test proxies before adding them
+# - Rotating proxies help avoid IP bans
+# - Consider paid proxies for better reliability
+#
+# Note: The tool works without proxies but using them is recommended
+# to avoid Instagram's rate limiting and potential IP blocking

@@ -1,0 +1,16 @@
+# Instagram Username Checker - Username List
+# Add usernames to check (one per line)
+# Remove the # from the lines below and add your desired usernames
+
+# Example usernames (remove # to activate):
+# coolgamer2025
+# awesomeuser
+# instafamous
+# yourdesiredname
+# anotheruser
+
+# Tips:
+# - Check shorter usernames (3-8 characters) as they become available more often
+# - Use common words, numbers, or combinations
+# - Avoid offensive or trademarked names
+# - Popular names become available when accounts get deleted or renamed
